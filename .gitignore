@@ -1,0 +1,17 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+override.tf
+.terraformrc
+terraform.rc
+
+# Node
+ec2-tool/node_modules/
+
+# Python
+__pycache__/
+*.pyc
